@@ -1,0 +1,23 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "A microservice that converts utc and unix timestamps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CatsMeow492/timestamp-microservice.git"
+  },
+  "keywords": [
+    "timestamp",
+    "api"
+  ],
+  "author": "Taylor Mohney",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CatsMeow492/timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/CatsMeow492/timestamp-microservice#readme"
+}
